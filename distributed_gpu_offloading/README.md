@@ -2,7 +2,7 @@
 
 **Course:** CSC-334 — Parallel and Distributed Computing
 **Assignment:** Lab 04 — Custom Distributed Task Offloading & Remote GPU Rendering System (100 marks)
-**Author:** Minahil Anjum (FA23-BSE-039, Section A)
+**Author:** Abdul Rehman (FA23-BSE-021, Section A)
 
 A complete client/server system that offloads heavy multimedia and compute jobs
 (video transcoding, tensor math, synthetic rendering) from a resource-constrained
