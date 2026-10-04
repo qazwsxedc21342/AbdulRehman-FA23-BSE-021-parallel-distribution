@@ -1,0 +1,4 @@
+case,task,input_bytes,resolution,local_seconds,remote_seconds,worker_seconds,upload_seconds,download_seconds,rtt_ms,engine,speedup,overhead_seconds,upload_mbps,notes
+video 480p transcode,video,2864324,854x480,1.527,1.626,1.539,0.004,0.084,0.56,libx264,0.939,0.087,5728.6,
+tensor GEMM 1024 (compute offload),tensor,8388608,-,10.883,11.228,11.025,0.009,0.194,0.61,numpy-cpu,0.969,0.203,7456.5,
+synthetic render 8MiB input,synthetic,8388608,-,0.082,0.279,0.075,0.009,0.195,0.72,python-cpu,0.294,0.204,7456.5,

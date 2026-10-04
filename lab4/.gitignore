@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Runtime artifacts (daemon + client)
+client/.client_state
+server/workdir/
+client/downloads/
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
