@@ -29,12 +29,13 @@ This project was developed as a practical demonstration of:
 
 ```text
 .
-├── server.py       # Multi-threaded TCP server
-├── client.py       # TCP client
-├── server.png      # Server execution screenshot
-├── client 2.png    # Client execution screenshot
-├── client out put.png
-└── output 1.png
+├── server.py          # Multi-threaded TCP server
+├── client.py          # TCP client
+├── output 1.png       # Server startup screenshot
+├── client out put.png # Client 1 execution screenshot
+├── client 2.png       # Client 2 execution screenshot
+├── server.png         # Multi-threaded server screenshot
+└── README.md          # Project documentation
 ```
 
 ## Requirements
@@ -53,8 +54,8 @@ The application uses only Python standard-library modules:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/AbdulRehman4t7/FA23-BSE-068-P-DC.git
-cd FA23-BSE-068-P-DC
+git clone https://github.com/qazwsxedc21342/parallel-distribution.git
+cd parallel-distribution
 ```
 
 ### 2. Start the server
@@ -192,13 +193,17 @@ After completing this project, the following concepts can be understood:
 
 ## Screenshots
 
-### Server
+### 1. Server Startup
+![Server Startup](output%201.png)
 
-![Server output](server.png)
+### 2. Client 1 Execution
+![Client 1 Execution](client%20out%20put.png)
 
-### Client
+### 3. Client 2 Execution
+![Client 2 Execution](client%202.png)
 
-![Client output](client%202.png)
+### 4. Server Handling Multiple Clients Concurrently
+![Server Multi-Client Output](server.png)
 
 ## Author
 
