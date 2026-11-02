@@ -9,13 +9,21 @@
 </p>
 
 ---
-
+ScreenShots:
+<img width="1401" height="982" alt="Screenshot 2026-11-02 094519" src="https://github.com/user-attachments/assets/dc55a0f9-5b19-40c1-9d95-07c18a0b040e" />
+<img width="1372" height="1030" alt="Screenshot 2026-11-02 094427" src="https://github.com/user-attachments/assets/770058f8-ba32-40fe-8b30-02d5bd453c9a" />
+<img width="1401" height="976" alt="Screenshot 2026-11-02 094502" src="https://github.com/user-attachments/assets/fa498f11-0a8c-4bab-b23e-df15b8d956b9" />
+---
+---
+Project Demo:
+https://drive.google.com/file/d/1BGG8LzJsRIZ-PrgYWsZ59xFhPU2ryNha/view?usp=drive_link
+---
 ## 👨‍💻 Student Profile & Submission Credentials
 
 | Field | Submission Details |
 | :--- | :--- |
-| **Student Full Name** | **Muhammad Ahmad Mujtaba** |
-| **Registration Number** | **FA23-BSE-041** |
+| **Student Full Name** | **Abdul Rehman** |
+| **Registration Number** | **FA23-BSE-021** |
 | **Degree Program** | Bachelor of Science in Software Engineering (BSE 7A) |
 | **Course Code & Title** | **CSC-334: Parallel and Distributed Computing** |
 | **Required Collaborator** | Invited `githubprojectmin@gmail.com` as collaborator |
