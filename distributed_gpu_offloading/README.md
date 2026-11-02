@@ -9,7 +9,14 @@ A complete client/server system that offloads heavy multimedia and compute jobs
 client laptop to a remote worker node over a TCP network, with a live GUI,
 streaming progress, integrity-verified transfers, and a benchmarking harness.
 
+
 ---
+Outputs:
+<img width="1600" height="1039" alt="WhatsApp Image 2026-10-04 at 1 28 52 PM (3)" src="https://github.com/user-attachments/assets/d29d56df-9d37-44b3-b209-7eff5ad3f054" />
+<img width="1600" height="1039" alt="WhatsApp Image 2026-10-04 at 1 28 52 PM (2)" src="https://github.com/user-attachments/assets/4f3f5273-d9cf-45c0-93e6-08a50c05fa69" />
+<img width="1600" height="1039" alt="WhatsApp Image 2026-10-04 at 1 28 52 PM (1)" src="https://github.com/user-attachments/assets/fd782b99-6813-4cf3-b30d-30326a3094bd" />
+<img width="1000" height="649" alt="WhatsApp Image 2026-10-04 at 1 28 52 PM" src="https://github.com/user-attachments/assets/ebac6683-7aa9-483c-8372-bbc5e119b2c2" />
+
 
 ## Table of Contents
 
